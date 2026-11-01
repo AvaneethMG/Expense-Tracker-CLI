@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "amount": 150,
+    "category": "Entertainment",
+    "date": "1-10-2026",
+    "description": "At party"
+  },
+  {
+    "id": 2,
+    "amount": 60,
+    "category": "Transport",
+    "date": "2026-10-7",
+    "description": "Bus pass top-up"
+  },
+  {
+    "id": 3,
+    "amount": 95.0,
+    "category": "Entertainment",
+    "date": "2026-10-8",
+    "description": "Movie tickets"
+  },
+  {
+    "id": 4,
+    "amount": 250,
+    "category": "Education",
+    "date": "2026-10-7",
+    "description": "Python course notes"
+  },
+  {
+    "id": 6,
+    "amount": 100.0,
+    "category": "Food",
+    "date": "2026-10-30",
+    "description": "College Lunch"
+  }
+]
